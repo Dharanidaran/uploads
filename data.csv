@@ -1,0 +1,929 @@
+[{"model": "LabelApp.labelleddata", "pk": 1, "fields": {"user": 1, "text": "Iron fist was a huge disappointment. Bad character bad dramaturgy bad acting.", "languages_detected": "en", "labelName": "Pos", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-08T19:51:26.508Z", "updated": "2018-10-08T19:51:26.508Z", "fileID": 1}}, {"model": "LabelApp.labelleddata", "pk": 2, "fields": {"user": 1, "text": "At least stop blocking DNS .. damn it .. you really make people unsubscribe !!!", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-08T19:51:26.508Z", "updated": "2018-10-08T19:51:26.508Z", "fileID": 1}}, {"model": "LabelApp.labelleddata", "pk": 3, "fields": {"user": 1, "text": "Hello ......I got 3 good movie story base on true story from the African slums in Ghana precisely and the titles are.. 1.life of the ghettobluster 2.the 3orphans 3.if I had another chance Please I don't want to let these stories go waste or to be shot with any low quality camera..so for that reason I have kept these stories for 4 years..I want u to please help I will need your help Netflix I will be more than happy cos I want the world to know of these stories.. Please I pray u listen to my please and give me the attention to show u my stories. Will love to hear from you Thank you", "languages_detected": "en", "labelName": "Pos", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-08T19:51:26.508Z", "updated": "2018-10-08T19:51:26.508Z", "fileID": 1}}, {"model": "LabelApp.labelleddata", "pk": 4, "fields": {"user": 1, "text": "Really Luke Brailey maybe you should turn off the TV and go volunteer at a VA hospital.", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-08T19:51:26.508Z", "updated": "2018-10-08T19:51:26.508Z", "fileID": 1}}, {"model": "LabelApp.labelleddata", "pk": 5, "fields": {"user": 1, "text": "FIXED MATCHES 100% KING IS HERE NO CHANCE TO No Chance To Lose", "languages_detected": "en", "labelName": "Neutral", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-08T19:51:26.508Z", "updated": "2018-10-08T19:51:26.508Z", "fileID": 1}}, {"model": "LabelApp.labelleddata", "pk": 6, "fields": {"user": 1, "text": "For the First time I thought that there is a show rivaling to Game of Thrones and now they cancelled it what a shame", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-08T19:51:26.508Z", "updated": "2018-10-08T19:51:26.508Z", "fileID": 1}}, {"model": "LabelApp.labelleddata", "pk": 7, "fields": {"user": 1, "text": "Any plans on releasing Parks and Recreation for Netflix Chile? Can't seem to find it. Thanks in advance !", "languages_detected": "en", "labelName": "Pos", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-08T19:51:26.508Z", "updated": "2018-10-08T19:51:26.508Z", "fileID": 1}}, {"model": "LabelApp.labelleddata", "pk": 8, "fields": {"user": 1, "text": "Vaughan you're right. Cathay Pacific had the decency to stop transporting greyhounds. Guess which card is more likely to become Silver now? ??", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 9, "fields": {"user": 1, "text": "Vaughan you're right. Cathay Pacific had the decency to stop transporting greyhounds. Guess which card is more likely to become Silver now? ??", "languages_detected": "en", "labelName": "Anger", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 10, "fields": {"user": 1, "text": "Lufthansa shame on you is right. You know all too well what the fate of these greyhounds will be by transporting them to China. And their fate is a horrible inhumane one. Where is your compassion and morals how low to you have to stoop to make a few dollars. Do the right thing please. The world is watching!", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 11, "fields": {"user": 1, "text": "Lufthansa shame on you is right. You know all too well what the fate of these greyhounds will be by transporting them to China. And their fate is a horrible inhumane one. Where is your compassion and morals how low to you have to stoop to make a few dollars. Do the right thing please. The world is watching!", "languages_detected": "en", "labelName": "Disgust", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 12, "fields": {"user": 1, "text": "Hi Lufthansa and Miles and More Team We tired to find a solution with your Miles and More Customer Service but we were really very disappointed about their reaction and that they did not offer us any solution at all regarding the following issue: We booked a flight with Aegean Airlines as it is listed as Miles and More Partner first row on your list of partners. We could have booked the same destination with Lufthansa nearly at the same time & price and even from an airport more convenient for us. We though booked the flight with Aegean as a friend of us was flying with it and only because we thought there is no difference in the airline in regard to Miles and More. These flights where the last flights we needed to reach the Frequent Traveller status. We are now very negatively surprized to find out that the Aegean Airlines is NOT a full Miles and More partner and does not count for the Frequent Traveller status! This is not mentioned at all in the list of Miles and More partners!! The man at the customer service hotline even admitted that he knows that the information on the homepage is not complete and that we would have needed to look deeper into the homepage to find somewhere a little footnote informing that some airlines are not counting for the Frequent Traveller status. As we could not believe that a Miles and More employee even admits a fault on the Miles and More homepage and still does not offer a solution we tried to contact the customer service again via eMail to let them double-check the situation. We got an eMail back with the nebulous explanation they cannot do anything for us as they have to treat all their customers in the same way. What do you mean by this? That every person who walks into the trap of unclear and incomplete information on your homepage has to be treated that bad by you? I would really appreciate to see that this disappointing experience with the customer service is not the end of this story and that you talk to us again and at least try to find a solution.", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 13, "fields": {"user": 1, "text": "Hi Lufthansa and Miles and More Team We tired to find a solution with your Miles and More Customer Service but we were really very disappointed about their reaction and that they did not offer us any solution at all regarding the following issue: We booked a flight with Aegean Airlines as it is listed as Miles and More Partner first row on your list of partners. We could have booked the same destination with Lufthansa nearly at the same time & price and even from an airport more convenient for us. We though booked the flight with Aegean as a friend of us was flying with it and only because we thought there is no difference in the airline in regard to Miles and More. These flights where the last flights we needed to reach the Frequent Traveller status. We are now very negatively surprized to find out that the Aegean Airlines is NOT a full Miles and More partner and does not count for the Frequent Traveller status! This is not mentioned at all in the list of Miles and More partners!! The man at the customer service hotline even admitted that he knows that the information on the homepage is not complete and that we would have needed to look deeper into the homepage to find somewhere a little footnote informing that some airlines are not counting for the Frequent Traveller status. As we could not believe that a Miles and More employee even admits a fault on the Miles and More homepage and still does not offer a solution we tried to contact the customer service again via eMail to let them double-check the situation. We got an eMail back with the nebulous explanation they cannot do anything for us as they have to treat all their customers in the same way. What do you mean by this? That every person who walks into the trap of unclear and incomplete information on your homepage has to be treated that bad by you? I would really appreciate to see that this disappointing experience with the customer service is not the end of this story and that you talk to us again and at least try to find a solution.", "languages_detected": "en", "labelName": "Anger", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 14, "fields": {"user": 1, "text": "Question Tomorrow (12.45h) I suppose to flight from Berlin via Frankfurt to Prishtina From Berlin to Frankfurt flight is operated by Lufthansa and i hared for strike so please could you tell me what to do and if my flight is canceled ? hope to hear from you as soon as possible! Thanks. Alban", "languages_detected": "en", "labelName": "Neutral", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 15, "fields": {"user": 1, "text": "Question Tomorrow (12.45h) I suppose to flight from Berlin via Frankfurt to Prishtina From Berlin to Frankfurt flight is operated by Lufthansa and i hared for strike so please could you tell me what to do and if my flight is canceled ? hope to hear from you as soon as possible! Thanks. Alban", "languages_detected": "en", "labelName": "None", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 16, "fields": {"user": 1, "text": "I wasn't like that before though. What they are today is not even a shadow of the company they were less than 5 years ago...", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 17, "fields": {"user": 1, "text": "I wasn't like that before though. What they are today is not even a shadow of the company they were less than 5 years ago...", "languages_detected": "en", "labelName": "Anger", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:44:41.220Z", "updated": "2018-10-09T08:44:41.220Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 18, "fields": {"user": 1, "text": "Lufthansa has the worse customer service of all Airlines. 15mins waiting for their customer care center to pickup a the phone...", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:45:50.410Z", "updated": "2018-10-09T08:45:50.410Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 19, "fields": {"user": 1, "text": "Lufthansa has the worse customer service of all Airlines. 15mins waiting for their customer care center to pickup a the phone...", "languages_detected": "en", "labelName": "Anger", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:45:50.410Z", "updated": "2018-10-09T08:45:50.410Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 20, "fields": {"user": 1, "text": "my flight from poznan-munich and munich-turkey has been canceled. for rebooking it asks for 300euro!! since hours i am calling service center poland germany turkey.. nobody answers! we are in poland for exhibition and we all stop our works and try to contact lufthansa! we need a immediate solution!", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:45:50.410Z", "updated": "2018-10-09T08:45:50.410Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 21, "fields": {"user": 1, "text": "my flight from poznan-munich and munich-turkey has been canceled. for rebooking it asks for 300euro!! since hours i am calling service center poland germany turkey.. nobody answers! we are in poland for exhibition and we all stop our works and try to contact lufthansa! we need a immediate solution!", "languages_detected": "en", "labelName": "Anger", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:45:50.411Z", "updated": "2018-10-09T08:45:50.411Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 22, "fields": {"user": 1, "text": "Thank you Lufthansa for bumping me up to Business class on my way to Europe! No idea why but I'm loving it :) Thanks!!", "languages_detected": "en", "labelName": "Pos", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:45:50.411Z", "updated": "2018-10-09T08:45:50.411Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 23, "fields": {"user": 1, "text": "Thank you Lufthansa for bumping me up to Business class on my way to Europe! No idea why but I'm loving it :) Thanks!!", "languages_detected": "en", "labelName": "Happy", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:45:50.411Z", "updated": "2018-10-09T08:45:50.411Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 24, "fields": {"user": 1, "text": "Many thanks to crew on LH2501 for super service !! Super flight", "languages_detected": "en", "labelName": "Pos", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:46:12.529Z", "updated": "2018-10-09T08:46:12.529Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 25, "fields": {"user": 1, "text": "Many thanks to crew on LH2501 for super service !! Super flight", "languages_detected": "en", "labelName": "Happy", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:46:12.529Z", "updated": "2018-10-09T08:46:12.529Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 26, "fields": {"user": 1, "text": "Did she arrive now safe at jfk Albina Bjelic Redzepagic?hope so....", "languages_detected": "en", "labelName": "Neutral", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:46:12.529Z", "updated": "2018-10-09T08:46:12.529Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 27, "fields": {"user": 1, "text": "Did she arrive now safe at jfk Albina Bjelic Redzepagic?hope so....", "languages_detected": "en", "labelName": "None", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:46:12.529Z", "updated": "2018-10-09T08:46:12.529Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 28, "fields": {"user": 1, "text": "I am totally surprised with this. I am still wondering where Lufthansa's customer service is!", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:46:23.353Z", "updated": "2018-10-09T08:46:23.353Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 29, "fields": {"user": 1, "text": "I am totally surprised with this. I am still wondering where Lufthansa's customer service is!", "languages_detected": "en", "labelName": "Disgust", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:46:23.353Z", "updated": "2018-10-09T08:46:23.353Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 30, "fields": {"user": 1, "text": "They won't help you there are so many passengers complaining about their customer services and they do nothing but they are happy to transport Irish greyhounds to China to be killed. No ethics whatsoever.", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:46:49.000Z", "updated": "2018-10-09T08:46:49.000Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 31, "fields": {"user": 1, "text": "They won't help you there are so many passengers complaining about their customer services and they do nothing but they are happy to transport Irish greyhounds to China to be killed. No ethics whatsoever.", "languages_detected": "en", "labelName": "Disgust", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:46:49.000Z", "updated": "2018-10-09T08:46:49.000Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 32, "fields": {"user": 1, "text": "Seriously #lufthansa I have been waiting in Frankfurt Airport for 4+ hours while you cancelled my flight and then took every business-class customer in front of me in the rebooking area... I don't think I should have to wait over 3 hours to be able to rebook a flight even if I am booked in Economy. As it is I am six months pregnant and haven't had a meal since 9 a.m. this morning. Also traveling with my disabled father. So disappointed.", "languages_detected": "en", "labelName": "Neg", "classifierName": "Sentiment (Pos,Neg,Neutral)", "timestamp": "2018-10-09T08:47:04.577Z", "updated": "2018-10-09T08:47:04.577Z", "fileID": 2}}, {"model": "LabelApp.labelleddata", "pk": 33, "fields": {"user": 1, "text": "Seriously #lufthansa I have been waiting in Frankfurt Airport for 4+ hours while you cancelled my flight and then took every business-class customer in front of me in the rebooking area... I don't think I should have to wait over 3 hours to be able to rebook a flight even if I am booked in Economy. As it is I am six months pregnant and haven't had a meal since 9 a.m. this morning. Also traveling with my disabled father. So disappointed.", "languages_detected": "en", "labelName": "Disgust", "classifierName": "RyainAir", "timestamp": "2018-10-09T08:47:04.577Z", "updated": "2018-10-09T08:47:04.577Z", "fileID": 2}}]
+[
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "text": "Iron fist was a huge disappointment. Bad character bad dramaturgy bad acting.",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 2,
+    "fields": {
+        "user": 1,
+        "text": "At least stop blocking DNS .. damn it .. you really make people unsubscribe !!!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 3,
+    "fields": {
+        "user": 1,
+        "text": "Hello ......I got 3 good movie story base on true story from the African slums in Ghana precisely and the titles are.. 1.life of the ghettobluster 2.the 3orphans 3.if I had another chance Please I don't want to let these stories go waste or to be shot with any low quality camera..so for that reason I have kept these stories for 4 years..I want u to please help I will need your help Netflix I will be more than happy cos I want the world to know of these stories.. Please I pray u listen to my please and give me the attention to show u my stories. Will love to hear from you Thank you",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 4,
+    "fields": {
+        "user": 1,
+        "text": "Really Luke Brailey maybe you should turn off the TV and go volunteer at a VA hospital.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 5,
+    "fields": {
+        "user": 1,
+        "text": "FIXED MATCHES 100% KING IS HERE NO CHANCE TO No Chance To Lose",
+        "languages_detected": "en",
+        "labelName": "Neutral",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 6,
+    "fields": {
+        "user": 1,
+        "text": "For the First time I thought that there is a show rivaling to Game of Thrones and now they cancelled it what a shame",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 7,
+    "fields": {
+        "user": 1,
+        "text": "Any plans on releasing Parks and Recreation for Netflix Chile? Can't seem to find it. Thanks in advance !",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 8,
+    "fields": {
+        "user": 1,
+        "text": "Vaughan you're right. Cathay Pacific had the decency to stop transporting greyhounds. Guess which card is more likely to become Silver now? ??",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 9,
+    "fields": {
+        "user": 1,
+        "text": "Vaughan you're right. Cathay Pacific had the decency to stop transporting greyhounds. Guess which card is more likely to become Silver now? ??",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 10,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa shame on you is right. You know all too well what the fate of these greyhounds will be by transporting them to China. And their fate is a horrible inhumane one. Where is your compassion and morals how low to you have to stoop to make a few dollars. Do the right thing please. The world is watching!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 11,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa shame on you is right. You know all too well what the fate of these greyhounds will be by transporting them to China. And their fate is a horrible inhumane one. Where is your compassion and morals how low to you have to stoop to make a few dollars. Do the right thing please. The world is watching!",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 12,
+    "fields": {
+        "user": 1,
+        "text": "Hi Lufthansa and Miles and More Team We tired to find a solution with your Miles and More Customer Service but we were really very disappointed about their reaction and that they did not offer us any solution at all regarding the following issue: We booked a flight with Aegean Airlines as it is listed as Miles and More Partner first row on your list of partners. We could have booked the same destination with Lufthansa nearly at the same time & price and even from an airport more convenient for us. We though booked the flight with Aegean as a friend of us was flying with it and only because we thought there is no difference in the airline in regard to Miles and More. These flights where the last flights we needed to reach the Frequent Traveller status. We are now very negatively surprized to find out that the Aegean Airlines is NOT a full Miles and More partner and does not count for the Frequent Traveller status! This is not mentioned at all in the list of Miles and More partners!! The man at the customer service hotline even admitted that he knows that the information on the homepage is not complete and that we would have needed to look deeper into the homepage to find somewhere a little footnote informing that some airlines are not counting for the Frequent Traveller status. As we could not believe that a Miles and More employee even admits a fault on the Miles and More homepage and still does not offer a solution we tried to contact the customer service again via eMail to let them double-check the situation. We got an eMail back with the nebulous explanation they cannot do anything for us as they have to treat all their customers in the same way. What do you mean by this? That every person who walks into the trap of unclear and incomplete information on your homepage has to be treated that bad by you? I would really appreciate to see that this disappointing experience with the customer service is not the end of this story and that you talk to us again and at least try to find a solution.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 13,
+    "fields": {
+        "user": 1,
+        "text": "Hi Lufthansa and Miles and More Team We tired to find a solution with your Miles and More Customer Service but we were really very disappointed about their reaction and that they did not offer us any solution at all regarding the following issue: We booked a flight with Aegean Airlines as it is listed as Miles and More Partner first row on your list of partners. We could have booked the same destination with Lufthansa nearly at the same time & price and even from an airport more convenient for us. We though booked the flight with Aegean as a friend of us was flying with it and only because we thought there is no difference in the airline in regard to Miles and More. These flights where the last flights we needed to reach the Frequent Traveller status. We are now very negatively surprized to find out that the Aegean Airlines is NOT a full Miles and More partner and does not count for the Frequent Traveller status! This is not mentioned at all in the list of Miles and More partners!! The man at the customer service hotline even admitted that he knows that the information on the homepage is not complete and that we would have needed to look deeper into the homepage to find somewhere a little footnote informing that some airlines are not counting for the Frequent Traveller status. As we could not believe that a Miles and More employee even admits a fault on the Miles and More homepage and still does not offer a solution we tried to contact the customer service again via eMail to let them double-check the situation. We got an eMail back with the nebulous explanation they cannot do anything for us as they have to treat all their customers in the same way. What do you mean by this? That every person who walks into the trap of unclear and incomplete information on your homepage has to be treated that bad by you? I would really appreciate to see that this disappointing experience with the customer service is not the end of this story and that you talk to us again and at least try to find a solution.",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 14,
+    "fields": {
+        "user": 1,
+        "text": "Question Tomorrow (12.45h) I suppose to flight from Berlin via Frankfurt to Prishtina From Berlin to Frankfurt flight is operated by Lufthansa and i hared for strike so please could you tell me what to do and if my flight is canceled ? hope to hear from you as soon as possible! Thanks. Alban",
+        "languages_detected": "en",
+        "labelName": "Neutral",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 15,
+    "fields": {
+        "user": 1,
+        "text": "Question Tomorrow (12.45h) I suppose to flight from Berlin via Frankfurt to Prishtina From Berlin to Frankfurt flight is operated by Lufthansa and i hared for strike so please could you tell me what to do and if my flight is canceled ? hope to hear from you as soon as possible! Thanks. Alban",
+        "languages_detected": "en",
+        "labelName": "None",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 16,
+    "fields": {
+        "user": 1,
+        "text": "I wasn't like that before though. What they are today is not even a shadow of the company they were less than 5 years ago...",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 17,
+    "fields": {
+        "user": 1,
+        "text": "I wasn't like that before though. What they are today is not even a shadow of the company they were less than 5 years ago...",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 18,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa has the worse customer service of all Airlines. 15mins waiting for their customer care center to pickup a the phone...",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:45:50.410Z",
+        "updated": "2018-10-09T08:45:50.410Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 19,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa has the worse customer service of all Airlines. 15mins waiting for their customer care center to pickup a the phone...",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:45:50.410Z",
+        "updated": "2018-10-09T08:45:50.410Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 20,
+    "fields": {
+        "user": 1,
+        "text": "my flight from poznan-munich and munich-turkey has been canceled. for rebooking it asks for 300euro!! since hours i am calling service center poland germany turkey.. nobody answers! we are in poland for exhibition and we all stop our works and try to contact lufthansa! we need a immediate solution!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:45:50.410Z",
+        "updated": "2018-10-09T08:45:50.410Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 21,
+    "fields": {
+        "user": 1,
+        "text": "my flight from poznan-munich and munich-turkey has been canceled. for rebooking it asks for 300euro!! since hours i am calling service center poland germany turkey.. nobody answers! we are in poland for exhibition and we all stop our works and try to contact lufthansa! we need a immediate solution!",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:45:50.411Z",
+        "updated": "2018-10-09T08:45:50.411Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 22,
+    "fields": {
+        "user": 1,
+        "text": "Thank you Lufthansa for bumping me up to Business class on my way to Europe! No idea why but I'm loving it :) Thanks!!",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:45:50.411Z",
+        "updated": "2018-10-09T08:45:50.411Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 23,
+    "fields": {
+        "user": 1,
+        "text": "Thank you Lufthansa for bumping me up to Business class on my way to Europe! No idea why but I'm loving it :) Thanks!!",
+        "languages_detected": "en",
+        "labelName": "Happy",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:45:50.411Z",
+        "updated": "2018-10-09T08:45:50.411Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 24,
+    "fields": {
+        "user": 1,
+        "text": "Many thanks to crew on LH2501 for super service !! Super flight",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 25,
+    "fields": {
+        "user": 1,
+        "text": "Many thanks to crew on LH2501 for super service !! Super flight",
+        "languages_detected": "en",
+        "labelName": "Happy",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 26,
+    "fields": {
+        "user": 1,
+        "text": "Did she arrive now safe at jfk Albina Bjelic Redzepagic?hope so....",
+        "languages_detected": "en",
+        "labelName": "Neutral",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 27,
+    "fields": {
+        "user": 1,
+        "text": "Did she arrive now safe at jfk Albina Bjelic Redzepagic?hope so....",
+        "languages_detected": "en",
+        "labelName": "None",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 28,
+    "fields": {
+        "user": 1,
+        "text": "I am totally surprised with this. I am still wondering where Lufthansa's customer service is!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:23.353Z",
+        "updated": "2018-10-09T08:46:23.353Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 29,
+    "fields": {
+        "user": 1,
+        "text": "I am totally surprised with this. I am still wondering where Lufthansa's customer service is!",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:23.353Z",
+        "updated": "2018-10-09T08:46:23.353Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 30,
+    "fields": {
+        "user": 1,
+        "text": "They won't help you there are so many passengers complaining about their customer services and they do nothing but they are happy to transport Irish greyhounds to China to be killed. No ethics whatsoever.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:49.000Z",
+        "updated": "2018-10-09T08:46:49.000Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 31,
+    "fields": {
+        "user": 1,
+        "text": "They won't help you there are so many passengers complaining about their customer services and they do nothing but they are happy to transport Irish greyhounds to China to be killed. No ethics whatsoever.",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:49.000Z",
+        "updated": "2018-10-09T08:46:49.000Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 32,
+    "fields": {
+        "user": 1,
+        "text": "Seriously #lufthansa I have been waiting in Frankfurt Airport for 4+ hours while you cancelled my flight and then took every business-class customer in front of me in the rebooking area... I don't think I should have to wait over 3 hours to be able to rebook a flight even if I am booked in Economy. As it is I am six months pregnant and haven't had a meal since 9 a.m. this morning. Also traveling with my disabled father. So disappointed.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:47:04.577Z",
+        "updated": "2018-10-09T08:47:04.577Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 33,
+    "fields": {
+        "user": 1,
+        "text": "Seriously #lufthansa I have been waiting in Frankfurt Airport for 4+ hours while you cancelled my flight and then took every business-class customer in front of me in the rebooking area... I don't think I should have to wait over 3 hours to be able to rebook a flight even if I am booked in Economy. As it is I am six months pregnant and haven't had a meal since 9 a.m. this morning. Also traveling with my disabled father. So disappointed.",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:47:04.577Z",
+        "updated": "2018-10-09T08:47:04.577Z",
+        "fileID": 2
+    }
+}
+]
+[
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "text": "Iron fist was a huge disappointment. Bad character bad dramaturgy bad acting.",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 2,
+    "fields": {
+        "user": 1,
+        "text": "At least stop blocking DNS .. damn it .. you really make people unsubscribe !!!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 3,
+    "fields": {
+        "user": 1,
+        "text": "Hello ......I got 3 good movie story base on true story from the African slums in Ghana precisely and the titles are.. 1.life of the ghettobluster 2.the 3orphans 3.if I had another chance Please I don't want to let these stories go waste or to be shot with any low quality camera..so for that reason I have kept these stories for 4 years..I want u to please help I will need your help Netflix I will be more than happy cos I want the world to know of these stories.. Please I pray u listen to my please and give me the attention to show u my stories. Will love to hear from you Thank you",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 4,
+    "fields": {
+        "user": 1,
+        "text": "Really Luke Brailey maybe you should turn off the TV and go volunteer at a VA hospital.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 5,
+    "fields": {
+        "user": 1,
+        "text": "FIXED MATCHES 100% KING IS HERE NO CHANCE TO No Chance To Lose",
+        "languages_detected": "en",
+        "labelName": "Neutral",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 6,
+    "fields": {
+        "user": 1,
+        "text": "For the First time I thought that there is a show rivaling to Game of Thrones and now they cancelled it what a shame",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 7,
+    "fields": {
+        "user": 1,
+        "text": "Any plans on releasing Parks and Recreation for Netflix Chile? Can't seem to find it. Thanks in advance !",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-08T19:51:26.508Z",
+        "updated": "2018-10-08T19:51:26.508Z",
+        "fileID": 1
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 8,
+    "fields": {
+        "user": 1,
+        "text": "Vaughan you're right. Cathay Pacific had the decency to stop transporting greyhounds. Guess which card is more likely to become Silver now? ??",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 9,
+    "fields": {
+        "user": 1,
+        "text": "Vaughan you're right. Cathay Pacific had the decency to stop transporting greyhounds. Guess which card is more likely to become Silver now? ??",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 10,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa shame on you is right. You know all too well what the fate of these greyhounds will be by transporting them to China. And their fate is a horrible inhumane one. Where is your compassion and morals how low to you have to stoop to make a few dollars. Do the right thing please. The world is watching!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 11,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa shame on you is right. You know all too well what the fate of these greyhounds will be by transporting them to China. And their fate is a horrible inhumane one. Where is your compassion and morals how low to you have to stoop to make a few dollars. Do the right thing please. The world is watching!",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 12,
+    "fields": {
+        "user": 1,
+        "text": "Hi Lufthansa and Miles and More Team We tired to find a solution with your Miles and More Customer Service but we were really very disappointed about their reaction and that they did not offer us any solution at all regarding the following issue: We booked a flight with Aegean Airlines as it is listed as Miles and More Partner first row on your list of partners. We could have booked the same destination with Lufthansa nearly at the same time & price and even from an airport more convenient for us. We though booked the flight with Aegean as a friend of us was flying with it and only because we thought there is no difference in the airline in regard to Miles and More. These flights where the last flights we needed to reach the Frequent Traveller status. We are now very negatively surprized to find out that the Aegean Airlines is NOT a full Miles and More partner and does not count for the Frequent Traveller status! This is not mentioned at all in the list of Miles and More partners!! The man at the customer service hotline even admitted that he knows that the information on the homepage is not complete and that we would have needed to look deeper into the homepage to find somewhere a little footnote informing that some airlines are not counting for the Frequent Traveller status. As we could not believe that a Miles and More employee even admits a fault on the Miles and More homepage and still does not offer a solution we tried to contact the customer service again via eMail to let them double-check the situation. We got an eMail back with the nebulous explanation they cannot do anything for us as they have to treat all their customers in the same way. What do you mean by this? That every person who walks into the trap of unclear and incomplete information on your homepage has to be treated that bad by you? I would really appreciate to see that this disappointing experience with the customer service is not the end of this story and that you talk to us again and at least try to find a solution.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 13,
+    "fields": {
+        "user": 1,
+        "text": "Hi Lufthansa and Miles and More Team We tired to find a solution with your Miles and More Customer Service but we were really very disappointed about their reaction and that they did not offer us any solution at all regarding the following issue: We booked a flight with Aegean Airlines as it is listed as Miles and More Partner first row on your list of partners. We could have booked the same destination with Lufthansa nearly at the same time & price and even from an airport more convenient for us. We though booked the flight with Aegean as a friend of us was flying with it and only because we thought there is no difference in the airline in regard to Miles and More. These flights where the last flights we needed to reach the Frequent Traveller status. We are now very negatively surprized to find out that the Aegean Airlines is NOT a full Miles and More partner and does not count for the Frequent Traveller status! This is not mentioned at all in the list of Miles and More partners!! The man at the customer service hotline even admitted that he knows that the information on the homepage is not complete and that we would have needed to look deeper into the homepage to find somewhere a little footnote informing that some airlines are not counting for the Frequent Traveller status. As we could not believe that a Miles and More employee even admits a fault on the Miles and More homepage and still does not offer a solution we tried to contact the customer service again via eMail to let them double-check the situation. We got an eMail back with the nebulous explanation they cannot do anything for us as they have to treat all their customers in the same way. What do you mean by this? That every person who walks into the trap of unclear and incomplete information on your homepage has to be treated that bad by you? I would really appreciate to see that this disappointing experience with the customer service is not the end of this story and that you talk to us again and at least try to find a solution.",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 14,
+    "fields": {
+        "user": 1,
+        "text": "Question Tomorrow (12.45h) I suppose to flight from Berlin via Frankfurt to Prishtina From Berlin to Frankfurt flight is operated by Lufthansa and i hared for strike so please could you tell me what to do and if my flight is canceled ? hope to hear from you as soon as possible! Thanks. Alban",
+        "languages_detected": "en",
+        "labelName": "Neutral",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 15,
+    "fields": {
+        "user": 1,
+        "text": "Question Tomorrow (12.45h) I suppose to flight from Berlin via Frankfurt to Prishtina From Berlin to Frankfurt flight is operated by Lufthansa and i hared for strike so please could you tell me what to do and if my flight is canceled ? hope to hear from you as soon as possible! Thanks. Alban",
+        "languages_detected": "en",
+        "labelName": "None",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 16,
+    "fields": {
+        "user": 1,
+        "text": "I wasn't like that before though. What they are today is not even a shadow of the company they were less than 5 years ago...",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 17,
+    "fields": {
+        "user": 1,
+        "text": "I wasn't like that before though. What they are today is not even a shadow of the company they were less than 5 years ago...",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:44:41.220Z",
+        "updated": "2018-10-09T08:44:41.220Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 18,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa has the worse customer service of all Airlines. 15mins waiting for their customer care center to pickup a the phone...",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:45:50.410Z",
+        "updated": "2018-10-09T08:45:50.410Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 19,
+    "fields": {
+        "user": 1,
+        "text": "Lufthansa has the worse customer service of all Airlines. 15mins waiting for their customer care center to pickup a the phone...",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:45:50.410Z",
+        "updated": "2018-10-09T08:45:50.410Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 20,
+    "fields": {
+        "user": 1,
+        "text": "my flight from poznan-munich and munich-turkey has been canceled. for rebooking it asks for 300euro!! since hours i am calling service center poland germany turkey.. nobody answers! we are in poland for exhibition and we all stop our works and try to contact lufthansa! we need a immediate solution!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:45:50.410Z",
+        "updated": "2018-10-09T08:45:50.410Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 21,
+    "fields": {
+        "user": 1,
+        "text": "my flight from poznan-munich and munich-turkey has been canceled. for rebooking it asks for 300euro!! since hours i am calling service center poland germany turkey.. nobody answers! we are in poland for exhibition and we all stop our works and try to contact lufthansa! we need a immediate solution!",
+        "languages_detected": "en",
+        "labelName": "Anger",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:45:50.411Z",
+        "updated": "2018-10-09T08:45:50.411Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 22,
+    "fields": {
+        "user": 1,
+        "text": "Thank you Lufthansa for bumping me up to Business class on my way to Europe! No idea why but I'm loving it :) Thanks!!",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:45:50.411Z",
+        "updated": "2018-10-09T08:45:50.411Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 23,
+    "fields": {
+        "user": 1,
+        "text": "Thank you Lufthansa for bumping me up to Business class on my way to Europe! No idea why but I'm loving it :) Thanks!!",
+        "languages_detected": "en",
+        "labelName": "Happy",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:45:50.411Z",
+        "updated": "2018-10-09T08:45:50.411Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 24,
+    "fields": {
+        "user": 1,
+        "text": "Many thanks to crew on LH2501 for super service !! Super flight",
+        "languages_detected": "en",
+        "labelName": "Pos",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 25,
+    "fields": {
+        "user": 1,
+        "text": "Many thanks to crew on LH2501 for super service !! Super flight",
+        "languages_detected": "en",
+        "labelName": "Happy",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 26,
+    "fields": {
+        "user": 1,
+        "text": "Did she arrive now safe at jfk Albina Bjelic Redzepagic?hope so....",
+        "languages_detected": "en",
+        "labelName": "Neutral",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 27,
+    "fields": {
+        "user": 1,
+        "text": "Did she arrive now safe at jfk Albina Bjelic Redzepagic?hope so....",
+        "languages_detected": "en",
+        "labelName": "None",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:12.529Z",
+        "updated": "2018-10-09T08:46:12.529Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 28,
+    "fields": {
+        "user": 1,
+        "text": "I am totally surprised with this. I am still wondering where Lufthansa's customer service is!",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:23.353Z",
+        "updated": "2018-10-09T08:46:23.353Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 29,
+    "fields": {
+        "user": 1,
+        "text": "I am totally surprised with this. I am still wondering where Lufthansa's customer service is!",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:23.353Z",
+        "updated": "2018-10-09T08:46:23.353Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 30,
+    "fields": {
+        "user": 1,
+        "text": "They won't help you there are so many passengers complaining about their customer services and they do nothing but they are happy to transport Irish greyhounds to China to be killed. No ethics whatsoever.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:46:49.000Z",
+        "updated": "2018-10-09T08:46:49.000Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 31,
+    "fields": {
+        "user": 1,
+        "text": "They won't help you there are so many passengers complaining about their customer services and they do nothing but they are happy to transport Irish greyhounds to China to be killed. No ethics whatsoever.",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:46:49.000Z",
+        "updated": "2018-10-09T08:46:49.000Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 32,
+    "fields": {
+        "user": 1,
+        "text": "Seriously #lufthansa I have been waiting in Frankfurt Airport for 4+ hours while you cancelled my flight and then took every business-class customer in front of me in the rebooking area... I don't think I should have to wait over 3 hours to be able to rebook a flight even if I am booked in Economy. As it is I am six months pregnant and haven't had a meal since 9 a.m. this morning. Also traveling with my disabled father. So disappointed.",
+        "languages_detected": "en",
+        "labelName": "Neg",
+        "classifierName": "Sentiment (Pos,Neg,Neutral)",
+        "timestamp": "2018-10-09T08:47:04.577Z",
+        "updated": "2018-10-09T08:47:04.577Z",
+        "fileID": 2
+    }
+},
+{
+    "model": "LabelApp.labelleddata",
+    "pk": 33,
+    "fields": {
+        "user": 1,
+        "text": "Seriously #lufthansa I have been waiting in Frankfurt Airport for 4+ hours while you cancelled my flight and then took every business-class customer in front of me in the rebooking area... I don't think I should have to wait over 3 hours to be able to rebook a flight even if I am booked in Economy. As it is I am six months pregnant and haven't had a meal since 9 a.m. this morning. Also traveling with my disabled father. So disappointed.",
+        "languages_detected": "en",
+        "labelName": "Disgust",
+        "classifierName": "RyainAir",
+        "timestamp": "2018-10-09T08:47:04.577Z",
+        "updated": "2018-10-09T08:47:04.577Z",
+        "fileID": 2
+    }
+}
+]
